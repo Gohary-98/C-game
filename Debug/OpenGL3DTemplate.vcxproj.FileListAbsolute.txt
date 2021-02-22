@@ -1,0 +1,2 @@
+C:\Users\ahmed\Downloads\GUC_312_52_195_2020-11-09T13_55_16\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\ahmed\Downloads\GUC_312_52_195_2020-11-09T13_55_16\OpenGL3DTemplate\Debug\OpenGL3DTemplate.pdb
