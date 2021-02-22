@@ -1,3 +1,4 @@
+the player can be moved using arrow keys, and the camera angle can be changed using z, x and c buttons
 ========================================================================
     CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
 ========================================================================
