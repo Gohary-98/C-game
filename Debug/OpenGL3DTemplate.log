@@ -1,3 +1,3 @@
 ﻿  OpenGL3DTemplate.cpp
 OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  OpenGL3DTemplate.vcxproj -> C:\Users\ahmed\Downloads\GUC_312_52_195_2020-11-09T13_55_16\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+  OpenGL3DTemplate.vcxproj -> D:\C++ 3D Minigame\C-game\Debug\OpenGL3DTemplate.exe
